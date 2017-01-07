@@ -1,6 +1,6 @@
 #Why
 Over the last year Kovri/Monero has become my passion.  I spend about 10 - 15 hours a week improving code and reading up on Kovri as well as Monero.  
-Any bitcoin wallet worth a grain of salt already implements Tor.  I2p being more decentralized should provide the needed protection for viable remote node usage.  
+Any bitcoin wallet worth a grain of salt already implements Tor.  I2p being more decentralized should provide the needed protection for viable remote node usage.
 
 #What
 Assist Kovri/anonimal on a consistent basis.
