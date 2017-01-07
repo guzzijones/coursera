@@ -1,6 +1,6 @@
-#why
+#Why
 Over the last year Kovri/Monero has become my hobby.  I spend about 10 - 15 hours a week improving code and reading up on Kovri as well as Monero.  
-Any bitcoin wallet worth a grain of salt implements tor already.  I2p being a bit more decentralized should provide the needed protection for viable remote node usage.  Anywhere on earth without the need of a pay to play vpn.
+Any bitcoin wallet worth a grain of salt implements Tor already.  I2p being more decentralized should provide the needed protection for viable remote node usage.  
 
 #What
 Assist Kovri/anonimal on a consistent basis.
@@ -9,7 +9,7 @@ Provide support for Kovri bugs and coding needs.
 *Most of this work is already complete, testing is needed.
 *learn lmbd to apply lmdb into kovri for address book initially.
 
-#who
+#Who
 Guzzi
 I have submitted PRs already for Monero and Kovri.  
 Monero I completed a change request to force the simple wallet password to be entered 2 times.
