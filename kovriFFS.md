@@ -4,13 +4,14 @@ Any bitcoin wallet worth a grain of salt implements Tor already.  I2p being more
 
 #What
 Assist Kovri/anonimal on a consistent basis.
-Provide support for Kovri bugs and coding needs.
+* Provide support for Kovri bugs and coding needs.
 * Currently I am working on the proxy server fixes in Kovri.
 * Most of this work is already complete, testing is needed.
 * learn lmbd to apply lmdb into kovri for address book initially.
 
 #Who
 Guzzi
+
 I have submitted PRs already for Monero and Kovri.  
 Monero I completed a change request to force the simple wallet password to be entered 2 times.
 In Kovri I have implemented a temporary fix to return the correct error codes throughoutt the proxy server.
