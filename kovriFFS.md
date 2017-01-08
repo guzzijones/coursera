@@ -1,3 +1,7 @@
+# 3 month Kovri dev.
+120 hours. (should protect against increases and decreases in value). ~ 4 weeks.
+delivered at the end of each 30 hour period as per weekly reports.
+
 #Why
 Over the last year Kovri/Monero has become my passion.  I spend about 10 - 15 hours a week improving code and reading up on Kovri as well as Monero.  
 Any bitcoin wallet worth a grain of salt already implements Tor.  I2p being more decentralized should provide the needed protection for viable remote node usage.
@@ -15,6 +19,14 @@ Guzzi
 ##PRs submitted  
 * Monero: completed a change request to force the simple wallet password to be entered 2 times.
 * Kovri: implemented a temporary fix to return the correct error codes throughoutt the proxy server.
+
+#How
+##Time
+I will be able to spend 10-15 hours per week working on kovri.  The work will be divied out by anonimal.
+
+##Reports
+Weekly reports will be submitted under this discussion on getmonero.org.  This will allow me to take a week off when needed an possibly work harder during one week if needed. I will supply dates and durantion of the during that week every Sunday for the prior week.
+
 
 -----BEGIN PGP PUBLIC KEY BLOCK-----
 Version: SKS 1.1.5
