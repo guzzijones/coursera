@@ -1,6 +1,7 @@
 # 3 month Kovri dev.
-120 hours. (should protect against increases and decreases in value). ~ 4 weeks.
-delivered at the end of each 30 hour period as per weekly reports.
+120 hours. (should protect against increases and decreases in value) ~ 12 weeks @ 10 hrs per week.
+
+Delivered at the end of each 30 hour period as per weekly reports.
 
 #Why
 Over the last year Kovri/Monero has become my passion.  I spend about 10 - 15 hours a week improving code and reading up on Kovri as well as Monero.  
