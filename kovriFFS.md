@@ -11,7 +11,7 @@ Any bitcoin wallet worth a grain of salt already implements Tor.  I2p being more
 Assist Kovri/anonimal on a consistent basis.
 * Provide support for Kovri bugs and coding needs.
 * Currently I am working on the proxy server fixes in Kovri. Most of this work is already complete, testing is needed.
-* upcoming possibility: learn lmbd to apply lmdb into kovri for address book initially.
+* upcoming: learn lmbd to apply lmdb into kovri for address book initially.
 
 #Who
 Guzzi
