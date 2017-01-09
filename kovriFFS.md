@@ -25,11 +25,11 @@ Guzzi
 ##Time
 I will be able to spend 10-15 hours per week working on kovri.  The work will be divied out by anonimal.
 Initial Schedule:
-Tuesday   7-9
-Thursday  7-9
-Friday    7-9
-Saturday  1-4
-Sunday    1-?
+* Tuesday   7-9
+* Thursday  7-9
+* Friday    7-9
+* Saturday  1-4
+* Sunday    1-?
 
 ##Reports
 Weekly reports will be submitted under this discussion on getmonero.org.  This will allow me to take a week off when needed an possibly work harder during one week if needed. I will supply dates and duration of the work every Sunday for the prior week.
