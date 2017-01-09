@@ -10,23 +10,29 @@ Any bitcoin wallet worth a grain of salt already implements Tor.  I2p being more
 #What
 Assist Kovri/anonimal on a consistent basis.
 * Provide support for Kovri bugs and coding needs.
-* Currently I am working on the proxy server fixes in Kovri.
-* Most of this work is already complete, testing is needed.
-* learn lmbd to apply lmdb into kovri for address book initially.
+* Currently I am working on the proxy server fixes in Kovri. Most of this work is already complete, testing is needed.
+* upcoming possibility: learn lmbd to apply lmdb into kovri for address book initially.
 
 #Who
 Guzzi
 
 ##PRs submitted  
 * Monero: completed a change request to force the simple wallet password to be entered 2 times.
-* Kovri: implemented a temporary fix to return the correct error codes throughoutt the proxy server.
+* Kovri: implemented a temporary fix to return the correct error codes throughout the proxy server.
+* Kovri: Coverity fixes.
 
 #How
 ##Time
 I will be able to spend 10-15 hours per week working on kovri.  The work will be divied out by anonimal.
+Initial Schedule:
+Tuesday   7-9
+Thursday  7-9
+Friday    7-9
+Saturday  1-4
+Sunday    1-?
 
 ##Reports
-Weekly reports will be submitted under this discussion on getmonero.org.  This will allow me to take a week off when needed an possibly work harder during one week if needed. I will supply dates and durantion of the during that week every Sunday for the prior week.
+Weekly reports will be submitted under this discussion on getmonero.org.  This will allow me to take a week off when needed an possibly work harder during one week if needed. I will supply dates and duration of the work every Sunday for the prior week.
 
 
 -----BEGIN PGP PUBLIC KEY BLOCK-----
