@@ -1,7 +1,7 @@
 # 3 month Kovri dev.
 120 hours. (should protect against increases and decreases in value) ~ 12 weeks @ 10 hrs per week.
 
-Delivered at the end of each 30 hour period as per weekly reports.
+
 
 #Why
 Over the last year Kovri/Monero has become my passion.  I spend about 10 - 15 hours a week improving code and reading up on Kovri as well as Monero.  
@@ -34,6 +34,12 @@ Initial Schedule:
 ##Reports
 Weekly reports will be submitted under this discussion on getmonero.org.  This will allow me to take a week off when needed an possibly work harder during one week if needed. I will supply dates and duration of the work every Sunday for the prior week.
 
+##Expiration
+Expires Feb 28th, 2016.
+
+##Pay Rate
+Paid @ 1 xmr / hour ~ 13 USD.
+To be paid in XMR delivered at the end of each 40 hour period as per weekly reports.
 
 -----BEGIN PGP PUBLIC KEY BLOCK-----
 Version: SKS 1.1.5
