@@ -1,17 +1,18 @@
-# 3 month Kovri dev.
+# Proposal for Kovri Dev
 120 hours. (should protect against increases and decreases in value) ~ 12 weeks @ 10 hrs per week.
 
 
 
 #Why
-Over the last year Kovri/Monero has become my passion.  I spend about 10 - 15 hours a week improving code and reading up on Kovri as well as Monero.  
-Any bitcoin wallet worth a grain of salt already implements Tor.  I2p being more decentralized should provide the needed protection for viable remote node usage.
+* Over the last year Kovri/Monero has become my passion. I spend about 10 - 15 hours a week improving code and reading up on Kovri as well as Monero.
+* Any bitcoin wallet worth a grain of salt already implements Tor. I2p being more decentralized should provide the needed protection for viable remote node usage.
+
 
 #What
 Assist Kovri/anonimal on a consistent basis.
 * Provide support for Kovri bugs and coding needs.
 * Currently I am working on the proxy server fixes in Kovri. Most of this work is already complete, testing is needed.
-* upcoming: learn lmbd to apply lmdb into kovri for address book initially.
+* Acquire new skills: learn lmbd to apply lmdb into kovri for address book initially.
 
 #Who
 Guzzi
@@ -23,8 +24,7 @@ Guzzi
 
 #How
 ##Time
-I will be able to spend 10-15 hours per week working on kovri.  The work will be divied out by anonimal.
-Initial Schedule:
+I will be able to spend 10-15 hours per week working on kovri. The work will be divided out by anonimal. Current Schedule:
 * Tuesday   7-9
 * Thursday  7-9
 * Friday    7-9
@@ -32,9 +32,9 @@ Initial Schedule:
 * Sunday    1-?
 
 ##Reports
-Weekly reports will be submitted under this discussion on getmonero.org.  This will allow me to take a week off when needed an possibly work harder during one week if needed. I will supply dates and duration of the work every Sunday for the prior week.
+* Weekly reports will be submitted under this discussion on getmonero.org. This will allow me some flexibility to take a week off when needed and work extra during one week. I will supply dates and duration of the work every Sunday for the prior week.
 
-##Expiration
+##Offer Expiration
 Expires Feb 28th, 2016.
 
 ##Pay Rate
